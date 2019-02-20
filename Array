@@ -1,0 +1,21 @@
+//Bài 6 - Array trong JavaScript
+var nv1 = {
+  name: 'danglv',
+  age:26,
+  language: 'C#'
+}
+
+var nv2 = {
+  name:'Linh nguyen',
+  age:25,
+  language: 'Java'
+}
+
+var nv3 = {
+  name :'Hanv',
+  age:27,
+  language:'Androi'
+}
+
+var persons = [nv1,nv2,nv3];
+console.log(persons);
